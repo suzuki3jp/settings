@@ -1,0 +1,6 @@
+# nodeModuleを除外
+node_modules/
+
+#envファイルを除外
+*.env.development
+*.env.production
